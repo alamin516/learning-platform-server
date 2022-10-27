@@ -1,5 +1,5 @@
 [
-    {
+    {   "category": "Spoken English",
         "id": "1",
         "title": "Spoken English at home",
         "description": " Being able to speak English fluently is an important skill in this age. Having spoken English skills can help you advance in every stage of life. Acquiring English speaking skills or correct pronunciation of English is very important for studies, career, competitive exams, higher education abroad and even traveling abroad. There are many people who know English well, but feel reluctant to speak English due to lack of confidence. Ten Minute School brings you the 'Spoken English at Home' course to help you improve your English speaking skills and at the same time build your English speaking confidence. Munzerin Shaheed from Oxford University will teach you how to speak English confidently in different real life situations. The entire course is taught in Bengali language. Most students who have completed this Spoken English course report that the course language is easy to understand and remember. By learning easy ways to speak English with correct pronunciation in real situations, you will gain the skills and confidence to speak English smartly without any inertia. ",
@@ -8,7 +8,7 @@
         "certificate": "https://cdn.10minuteschool.com/images/skills/certificates/updated3_Certificate%20Ghore%20BOSHE%20Spoken%20e.jpg"
 
     },
-    {
+    {   "category": "English Grammar",
         "id": "2",
         "title": "English Grammar Crash Course",
         "description": "More or less all of us have to struggle to remember English grammar according to conventional rules. Ten Minute School brought 'English Grammar Crash Course' to remember grammar rules through very simple techniques and practical examples. With the help of our “English Grammar Crash Course” course materials, you can learn grammar rules without memorizing them and apply them in real life. Basic English Grammar such as: Noun, Pronoun, Articles, Right Forms of Verbs, Gerunds, Tense, etc. besides complex subjects such as: Modals, Subjunctives, Inclusives, Redundancies etc. can be learned in an easy way. And mastering the rules of English grammar will create a solid foundation for speaking and pronouncing the English language. This 25-hour at-home course will free you from complex puzzle-like grammar rules. Enroll today to become more confident in your English grammar skills.",
@@ -17,7 +17,7 @@
         "certificate": "https://10minuteschool.com/skills/courses/_next/image?url=https%3A%2F%2Fcdn.10minuteschool.com%2Fimages%2Fskills%2Fcertificates%2Fupdated3_Certificate%2520English%2520grammar%2520cras.jpg&w=828&q=75"
 
     },
-    {
+    {   "category": "English",
         "id": "3",
         "title": "English Writing for Students",
         "description": "Students who want to improve marks in English writing section in school/college.Those who want to improve their English writing skills by learning grammar easily.Those who do not memorize, but want to gain confidence in creatively writing essays from their own ideas. Every year a large number of students at secondary and higher secondary level do not get the expected results in English. Most of them students get low marks in Paragraph or Essay Writing part of English exam due to weakness in English writing. The use of wrong words, weakness in constructing sentences according to the rules of grammar and not knowing the correct writing techniques make students face problems later in university life and career. Have you ever wondered why students don't score minimum marks in English subject every year in university entrance exams? Many students fall behind in these highly competitive exams because they cannot organize their thoughts and write meaningful sentences in English. To help these students, Ten Minute School has come up with “English Writing for Students” course as a simple guideline.",
@@ -26,7 +26,7 @@
         "certificate": "https://10minuteschool.com/_next/image?url=https%3A%2F%2Fcdn.10minuteschool.com%2Fimages%2Fskills%2Fcertificates%2Ferfs_cert.png&w=828&q=75"
 
     },
-    {
+    {   "category": "Programming",
         "id": "4",
         "title": "Programming for kids",
         "description": "In this age of information technology, it is very important to teach children coding or programming from an early stage, which is done in most countries of the developed world. Computer programming will teach your child a new mathematical language, which will encourage creativity and innovation, strengthen the foundation of mathematics and teach them to implement decisions in a well-planned way. But typing the word 'programming' on the internet brings up a lot of information, which makes it quite difficult to find the right direction. So Ten Minute School brings 'Programming For Kids' course to teach your child programming in a fun way! The course was designed by Atiba Rahman, who received the National ICT Award in 2021 for his work on programming for children and was selected as a 'Global Shaper' by the World Economic Forum. Enroll your child in the course today and make him dream of becoming an inventor.",
@@ -35,13 +35,22 @@
         "certificate": "https://10minuteschool.com/_next/image?url=https%3A%2F%2Fcdn.10minuteschool.com%2Fimages%2Fskills%2Fcertificates%2Fupdated3_Programming%2520for%2520Kids.jpg&w=828&q=75"
 
     },
-    {
+    {   "category": "Web Design",
         "id": "5",
         "title": "Web Design",
         "description": "Those who keep an eye on the world of technology must know how much a person who knows how to design a website is valued these days. In this age of technology, it has become essential for every organization to have a website. And so, the demand for skilled web designers is constantly increasing. Web design is the act of creating a template of how a website will look. This design should not only be visually pleasing but also functional at the same time. A professional web designer must have two major skills – programming skills and design sense. There are also many more detailed skills. Many people are afraid to learn web design as programming is a time consuming skill. But it is a skill that can be learned more than many other simple skills. So you need a guideline that will teach you web design in an easy way. And you can rely on Ten Minute School's 'Web Design' course. In this course you will get a complete guide to start a career as a web designer. In addition to the skills required for web design, this course will teach hands-on tips and tricks, exclusive cheat sheets. So enroll in Ten Minute School's 'Web Design' course to start your journey to becoming a successful web designer.",
         "image":"https://cdn.10minuteschool.com/lg/images/Thumbnails/Web-Design-Course-Thumbnail.jpg",
         "price": "950",
         "certificate": "https://10minuteschool.com/_next/image?url=https%3A%2F%2Fcdn.10minuteschool.com%2Fimages%2Fskills%2Fcertificates%2Fupdated3_Certificate%2520Web%2520Design.jpg&w=828&q=75"
+
+    },
+    {   "category": "Robotics for Beginners",
+        "id": "6",
+        "title": "Robotics for Beginners",
+        "description": "In today's technology-driven world, preparing yourself for the future is more important than ever. If you are wondering how to learn robotics and enter the world of robotics, Ten Minute School has brought you the 'Robotics for Beginners' course. This course will make your learning journey in the robotics and robotics industry easy and lively. You must be thinking that it is not possible for everyone to enter the robotics field. But if you learn it right from the very basics, you too can work with robotics. By taking this course, you will not only acquire problem solving skills, but also acquire the scientific and mathematical concepts required for robotics.",
+        "image": "https://cdn.10minuteschool.com/lg/images/skills/Updated_Thumbnail_v3/robotics_for_beginners_thumbnail.jpg",
+        "price": "1250",
+        "certificate": "https://10minuteschool.com/_next/image?url=https%3A%2F%2Fcdn.10minuteschool.com%2Fimages%2Fskills%2Fcertificates%2Frobotics_for_beginners_certificate.jpg&w=828&q=75"
 
     }
 ]
